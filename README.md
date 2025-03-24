@@ -18,6 +18,7 @@ If you are **new to open source**, consider this repository a great place to **s
 
 ## 📂 **Projects Included**
 This repository contains a variety of **Python projects** to help you get familiar with programming concepts, including:
+
 ✅ **Beginner-friendly projects**  
 ✅ **Intermediate-level applications**  
 ✅ **Advanced Python scripts**  
